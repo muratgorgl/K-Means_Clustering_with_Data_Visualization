@@ -7,11 +7,11 @@ The centroids have stabilized — there is no change in their values because the
 The defined number of iterations has been achieved.
 
 
-1.Specify number of clusters K.
+  1.Specify number of clusters K.
 
-2.Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
+  2.Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
 
-3.Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
+  3.Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
 
 # FORMULA
 ![indir](https://github.com/muratgorgl/K-Means_Clustering_with_Data_visualization/assets/105209043/dc674a74-1575-4860-91f8-a7611ac1075b)
