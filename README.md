@@ -27,6 +27,13 @@ We have a file of customers' data in a mall. We analyze data using their age, ge
 
 We visualize them. We cluster similar datapoints. Thus, when a new customer arrives, we discard which cluster this customer belongs to.
 
+![Figure 2023-06-25 114229](https://github.com/muratgorgl/K-Means_Clustering_with_Data_visualization/assets/105209043/7ebca9d8-ecf8-4491-aee7-8e4c2de90f72)
+
 Finally, we look at the WCSS (Within-Cluster Sums of Squares) value. By taking these values, we combine the datapoints by obtaining a linear graph in the x-y graph.
 
+![Figure 2023-06-25 114244](https://github.com/muratgorgl/K-Means_Clustering_with_Data_visualization/assets/105209043/b7a54cb3-5dfa-4632-8b92-b5e04ebfb9a6)
+
 As seen in the graph, which is the most successful of the datapoints here, we can call it the elbow point.
+
+
+
